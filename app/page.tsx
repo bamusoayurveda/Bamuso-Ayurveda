@@ -203,7 +203,6 @@ export default function Home() {
                       {/* Trust Indicators */}
                       <div className="mt-8 flex justify-center gap-6 text-white/80 text-sm">
                         <span>🌿 100% Natural</span>
-                        <span>🧪 Lab Tested</span>
                         <span>🇮🇳 Made in India</span>
                       </div>
 
