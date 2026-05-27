@@ -775,8 +775,8 @@ export default function ProductDetailPage() {
                   <p className='text-foreground/70'><span className='text-foreground'>Shuddh Shilajit –</span>Supports energy and stamina</p>
                   <p className='text-foreground/70'><span className='text-foreground'>Tribhang Bhasma –</span> Supports nerve wellness</p>
                   <p className='text-foreground/70'><span className='text-foreground'>Abhrak Bhasma –</span> Supports body rejuvenation</p>
-                  <p className='text-foreground/70'><span className='text-foreground'>Makar Dhwaj  –</span> Traditional Rasayan for vitality support</p>
-                  <h2 className="text-2xl font-serif font-bold mb-6 text-foreground">Nourishing Base Oil</h2>
+                  <p className='text-foreground/70 mb-4'><span className='text-foreground'>Makar Dhwaj  –</span> Traditional Rasayan for vitality support</p>
+                  <h2 className="text-2xl font-serif font-bold mb-6 text-foreground">Nourishing Base Oils</h2>
                   <p className='text-foreground/70'><span className='text-foreground'>Jaitoon Oil (Olive Oil) –</span> Helps enhance herbal absorption and nourish skin.</p>
                   <p className='text-foreground/70'><span className='text-foreground'>Til Oil (Sesame Oil) –</span> A deep penetrating Ayurvedic oil that supports circulation and tissue nourishment.</p>
                 </div>
